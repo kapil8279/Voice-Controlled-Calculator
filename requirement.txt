@@ -1,0 +1,8 @@
+#require modules 
+
+pip install pyttsx3
+pip install tkinter
+pip install sys
+pip install speech_recognition
+pip install threading
+pip install time
