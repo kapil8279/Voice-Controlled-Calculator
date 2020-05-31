@@ -6,3 +6,4 @@ pip install sys
 pip install speech_recognition
 pip install threading
 pip install time
+pip install pyAudio
