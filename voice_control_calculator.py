@@ -3,7 +3,7 @@ from tkinter import * #used for GUI
 import speech_recognition as sr #used for speech recognition using google api it conver all the audio data into text
 import threading #used for multiprocessing and create threads
 import time 
-
+# main class of calculator
 class Calculator():
     # this is the constructor
     def __init__(self):
